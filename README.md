@@ -1,5 +1,5 @@
-# cheap-VoIP
-Bare bones VoIP
+# pyVoIP
+Lightweight VoIP
 
 # Dependencies  
 -python3  
